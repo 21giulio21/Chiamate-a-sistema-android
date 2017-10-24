@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lanchon.dexpatcher:multidexlib2:2.2.1.r2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lanchon.dexpatcher/multidexlib2/2.2.1.r2/7bd7d535eb06dc7efc9130f0e36056ffbf3931a2/multidexlib2-2.2.1.r2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lanchon.dexpatcher/multidexlib2/2.2.1.r2/e755e1d75e844cb98aa1c5ab3412cfa92ed76419/multidexlib2-2.2.1.r2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

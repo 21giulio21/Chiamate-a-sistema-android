@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DEX.iml" filepath="$PROJECT_DIR$/.idea/modules/DEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DEX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DEX_main.iml" group="DEX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DEX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DEX_test.iml" group="DEX" />
+    </modules>
+  </component>
+</project>
